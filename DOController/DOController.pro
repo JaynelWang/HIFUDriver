@@ -12,7 +12,8 @@ TEMPLATE = lib
 
 DEFINES += DOCONTROLLER_LIBRARY
 
-INCLUDEPATH += ../lib/common
+INCLUDEPATH += ../lib/common\
+               ../lib/DO
 
 SOURCES += docontroller.cpp
 
