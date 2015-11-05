@@ -1,0 +1,2454 @@
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:00 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+16:03:01 Warning: Test PA_Module : Starting testing
+
+16:03:01 Warning: "2015-11-05 16:03:01 "     Current run times:  1
+
+16:03:10 Warning: startAllPowerTime:  2.106 s
+
+16:03:12 Warning: startAllPowerTime2:  2.169 s
+
+16:03:14 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:03:16 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:03:16 Warning: Test PA_Module : End testing
+
+16:03:16 Warning: ======================================
+
+16:03:16 Warning: Test PA_Module : Starting testing
+
+16:03:16 Warning: "2015-11-05 16:03:16 "     Current run times:  2
+
+16:03:24 Warning: startAllPowerTime:  2.106 s
+
+16:03:26 Warning: startAllPowerTime2:  2.168 s
+
+16:03:29 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:03:31 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:03:31 Warning: Test PA_Module : End testing
+
+16:03:31 Warning: ======================================
+
+16:03:31 Warning: Test PA_Module : Starting testing
+
+16:03:31 Warning: "2015-11-05 16:03:31 "     Current run times:  3
+
+16:03:39 Warning: startAllPowerTime:  2.121 s
+
+16:03:41 Warning: startAllPowerTime2:  2.169 s
+
+16:03:43 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:03:45 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:03:45 Warning: Test PA_Module : End testing
+
+16:03:45 Warning: ======================================
+
+16:03:45 Warning: Test PA_Module : Starting testing
+
+16:03:45 Warning: "2015-11-05 16:03:45 "     Current run times:  4
+
+16:03:54 Warning: startAllPowerTime:  2.106 s
+
+16:03:56 Warning: startAllPowerTime2:  2.169 s
+
+16:03:58 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:04:00 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:04:00 Warning: Test PA_Module : End testing
+
+16:04:00 Warning: ======================================
+
+16:04:00 Warning: Test PA_Module : Starting testing
+
+16:04:00 Warning: "2015-11-05 16:04:00 "     Current run times:  5
+
+16:04:08 Warning: startAllPowerTime:  2.106 s
+
+16:04:10 Warning: startAllPowerTime2:  2.169 s
+
+16:04:13 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:04:15 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:04:15 Warning: Test PA_Module : End testing
+
+16:04:15 Warning: ======================================
+
+16:04:15 Warning: Test PA_Module : Starting testing
+
+16:04:15 Warning: "2015-11-05 16:04:15 "     Current run times:  6
+
+16:04:23 Warning: startAllPowerTime:  2.106 s
+
+16:04:25 Warning: startAllPowerTime2:  2.184 s
+
+16:04:27 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:04:29 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:04:29 Warning: Test PA_Module : End testing
+
+16:04:29 Warning: ======================================
+
+16:04:29 Warning: Test PA_Module : Starting testing
+
+16:04:29 Warning: "2015-11-05 16:04:29 "     Current run times:  7
+
+16:04:38 Warning: startAllPowerTime:  2.106 s
+
+16:04:40 Warning: startAllPowerTime2:  2.184 s
+
+16:04:42 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:04:44 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:04:44 Warning: Test PA_Module : End testing
+
+16:04:44 Warning: ======================================
+
+16:04:44 Warning: Test PA_Module : Starting testing
+
+16:04:44 Warning: "2015-11-05 16:04:44 "     Current run times:  8
+
+16:04:52 Warning: startAllPowerTime:  2.121 s
+
+16:04:54 Warning: startAllPowerTime2:  2.169 s
+
+16:04:56 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:04:59 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:04:59 Warning: Test PA_Module : End testing
+
+16:04:59 Warning: ======================================
+
+16:04:59 Warning: Test PA_Module : Starting testing
+
+16:04:59 Warning: "2015-11-05 16:04:59 "     Current run times:  9
+
+16:05:07 Warning: startAllPowerTime:  2.122 s
+
+16:05:09 Warning: startAllPowerTime2:  2.168 s
+
+16:05:11 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:05:13 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:05:13 Warning: Test PA_Module : End testing
+
+16:05:13 Warning: ======================================
+
+16:05:13 Warning: Test PA_Module : Starting testing
+
+16:05:13 Warning: "2015-11-05 16:05:13 "     Current run times:  10
+
+16:05:21 Warning: startAllPowerTime:  2.106 s
+
+16:05:24 Warning: startAllPowerTime2:  2.168 s
+
+16:05:26 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:05:28 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:05:28 Warning: Test PA_Module : End testing
+
+16:05:28 Warning: ======================================
+
+16:05:28 Warning: Test PA_Module : Starting testing
+
+16:05:28 Warning: "2015-11-05 16:05:28 "     Current run times:  11
+
+16:05:36 Warning: startAllPowerTime:  2.106 s
+
+16:05:38 Warning: startAllPowerTime2:  2.169 s
+
+16:05:40 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:05:43 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:05:43 Warning: Test PA_Module : End testing
+
+16:05:43 Warning: ======================================
+
+16:05:43 Warning: Test PA_Module : Starting testing
+
+16:05:43 Warning: "2015-11-05 16:05:43 "     Current run times:  12
+
+16:05:51 Warning: startAllPowerTime:  2.106 s
+
+16:05:53 Warning: startAllPowerTime2:  2.169 s
+
+16:05:55 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:05:57 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:05:57 Warning: Test PA_Module : End testing
+
+16:05:57 Warning: ======================================
+
+16:05:57 Warning: Test PA_Module : Starting testing
+
+16:05:57 Warning: "2015-11-05 16:05:57 "     Current run times:  13
+
+16:06:05 Warning: startAllPowerTime:  2.122 s
+
+16:06:08 Warning: startAllPowerTime2:  2.168 s
+
+16:06:10 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:06:12 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:06:12 Warning: Test PA_Module : End testing
+
+16:06:12 Warning: ======================================
+
+16:06:12 Warning: Test PA_Module : Starting testing
+
+16:06:12 Warning: "2015-11-05 16:06:12 "     Current run times:  14
+
+16:06:20 Warning: startAllPowerTime:  2.122 s
+
+16:06:22 Warning: startAllPowerTime2:  2.168 s
+
+16:06:24 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:06:27 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:06:27 Warning: Test PA_Module : End testing
+
+16:06:27 Warning: ======================================
+
+16:06:27 Warning: Test PA_Module : Starting testing
+
+16:06:27 Warning: "2015-11-05 16:06:27 "     Current run times:  15
+
+16:06:35 Warning: startAllPowerTime:  2.106 s
+
+16:06:37 Warning: startAllPowerTime2:  2.169 s
+
+16:06:39 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:06:41 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:06:41 Warning: Test PA_Module : End testing
+
+16:06:41 Warning: ======================================
+
+16:06:41 Warning: Test PA_Module : Starting testing
+
+16:06:41 Warning: "2015-11-05 16:06:41 "     Current run times:  16
+
+16:06:49 Warning: startAllPowerTime:  2.106 s
+
+16:06:52 Warning: startAllPowerTime2:  2.184 s
+
+16:06:54 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:06:56 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:06:56 Warning: Test PA_Module : End testing
+
+16:06:56 Warning: ======================================
+
+16:06:56 Warning: Test PA_Module : Starting testing
+
+16:06:56 Warning: "2015-11-05 16:06:56 "     Current run times:  17
+
+16:07:04 Warning: startAllPowerTime:  2.106 s
+
+16:07:06 Warning: startAllPowerTime2:  2.184 s
+
+16:07:08 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:07:10 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:07:11 Warning: Test PA_Module : End testing
+
+16:07:11 Warning: ======================================
+
+16:07:11 Warning: Test PA_Module : Starting testing
+
+16:07:11 Warning: "2015-11-05 16:07:11 "     Current run times:  18
+
+16:07:19 Warning: startAllPowerTime:  2.106 s
+
+16:07:21 Warning: startAllPowerTime2:  2.169 s
+
+16:07:23 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:07:25 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:07:25 Warning: Test PA_Module : End testing
+
+16:07:25 Warning: ======================================
+
+16:07:25 Warning: Test PA_Module : Starting testing
+
+16:07:25 Warning: "2015-11-05 16:07:25 "     Current run times:  19
+
+16:07:33 Warning: startAllPowerTime:  2.121 s
+
+16:07:36 Warning: startAllPowerTime2:  2.169 s
+
+16:07:38 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:07:40 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:07:40 Warning: Test PA_Module : End testing
+
+16:07:40 Warning: ======================================
+
+16:07:40 Warning: Test PA_Module : Starting testing
+
+16:07:40 Warning: "2015-11-05 16:07:40 "     Current run times:  20
+
+16:07:48 Warning: startAllPowerTime:  2.106 s
+
+16:07:50 Warning: startAllPowerTime2:  2.168 s
+
+16:07:52 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:07:54 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:07:54 Warning: Test PA_Module : End testing
+
+16:07:54 Warning: ======================================
+
+16:07:54 Warning: Test PA_Module : Starting testing
+
+16:07:54 Warning: "2015-11-05 16:07:54 "     Current run times:  21
+
+16:08:03 Warning: startAllPowerTime:  2.106 s
+
+16:08:05 Warning: startAllPowerTime2:  2.169 s
+
+16:08:07 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:08:09 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:08:09 Warning: Test PA_Module : End testing
+
+16:08:09 Warning: ======================================
+
+16:08:09 Warning: Test PA_Module : Starting testing
+
+16:08:09 Warning: "2015-11-05 16:08:09 "     Current run times:  22
+
+16:08:17 Warning: startAllPowerTime:  2.106 s
+
+16:08:19 Warning: startAllPowerTime2:  2.168 s
+
+16:08:22 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:08:24 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:08:24 Warning: Test PA_Module : End testing
+
+16:08:24 Warning: ======================================
+
+16:08:24 Warning: Test PA_Module : Starting testing
+
+16:08:24 Warning: "2015-11-05 16:08:24 "     Current run times:  23
+
+16:08:32 Warning: startAllPowerTime:  2.106 s
+
+16:08:34 Warning: startAllPowerTime2:  2.168 s
+
+16:08:36 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:08:38 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:08:38 Warning: Test PA_Module : End testing
+
+16:08:38 Warning: ======================================
+
+16:08:38 Warning: Test PA_Module : Starting testing
+
+16:08:38 Warning: "2015-11-05 16:08:38 "     Current run times:  24
+
+16:08:47 Warning: startAllPowerTime:  2.121 s
+
+16:08:49 Warning: startAllPowerTime2:  2.169 s
+
+16:08:51 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:08:53 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:08:53 Warning: Test PA_Module : End testing
+
+16:08:53 Warning: ======================================
+
+16:08:53 Warning: Test PA_Module : Starting testing
+
+16:08:53 Warning: "2015-11-05 16:08:53 "     Current run times:  25
+
+16:09:01 Warning: startAllPowerTime:  2.106 s
+
+16:09:03 Warning: startAllPowerTime2:  2.168 s
+
+16:09:06 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:09:08 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:09:08 Warning: Test PA_Module : End testing
+
+16:09:08 Warning: ======================================
+
+16:09:08 Warning: Test PA_Module : Starting testing
+
+16:09:08 Warning: "2015-11-05 16:09:08 "     Current run times:  26
+
+16:09:16 Warning: startAllPowerTime:  2.106 s
+
+16:09:18 Warning: startAllPowerTime2:  2.184 s
+
+16:09:20 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:09:22 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:09:22 Warning: Test PA_Module : End testing
+
+16:09:22 Warning: ======================================
+
+16:09:22 Warning: Test PA_Module : Starting testing
+
+16:09:22 Warning: "2015-11-05 16:09:22 "     Current run times:  27
+
+16:09:31 Warning: startAllPowerTime:  2.106 s
+
+16:09:33 Warning: startAllPowerTime2:  2.168 s
+
+16:09:35 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:09:37 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:09:37 Warning: Test PA_Module : End testing
+
+16:09:37 Warning: ======================================
+
+16:09:37 Warning: Test PA_Module : Starting testing
+
+16:09:37 Warning: "2015-11-05 16:09:37 "     Current run times:  28
+
+16:09:45 Warning: startAllPowerTime:  2.106 s
+
+16:09:47 Warning: startAllPowerTime2:  2.169 s
+
+16:09:50 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:09:52 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:09:52 Warning: Test PA_Module : End testing
+
+16:09:52 Warning: ======================================
+
+16:09:52 Warning: Test PA_Module : Starting testing
+
+16:09:52 Warning: "2015-11-05 16:09:52 "     Current run times:  29
+
+16:10:00 Warning: startAllPowerTime:  2.122 s
+
+16:10:02 Warning: startAllPowerTime2:  2.168 s
+
+16:10:04 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:10:06 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:10:06 Warning: Test PA_Module : End testing
+
+16:10:06 Warning: ======================================
+
+16:10:06 Warning: Test PA_Module : Starting testing
+
+16:10:06 Warning: "2015-11-05 16:10:06 "     Current run times:  30
+
+16:10:15 Warning: startAllPowerTime:  2.106 s
+
+16:10:17 Warning: startAllPowerTime2:  2.169 s
+
+16:10:19 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:10:21 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:10:21 Warning: Test PA_Module : End testing
+
+16:10:21 Warning: ======================================
+
+16:10:21 Warning: Test PA_Module : Starting testing
+
+16:10:21 Warning: "2015-11-05 16:10:21 "     Current run times:  31
+
+16:10:29 Warning: startAllPowerTime:  2.106 s
+
+16:10:31 Warning: startAllPowerTime2:  2.184 s
+
+16:10:34 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:10:36 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:10:36 Warning: Test PA_Module : End testing
+
+16:10:36 Warning: ======================================
+
+16:10:36 Warning: Test PA_Module : Starting testing
+
+16:10:36 Warning: "2015-11-05 16:10:36 "     Current run times:  32
+
+16:10:44 Warning: startAllPowerTime:  2.106 s
+
+16:10:46 Warning: startAllPowerTime2:  2.169 s
+
+16:10:48 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:10:50 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:10:50 Warning: Test PA_Module : End testing
+
+16:10:50 Warning: ======================================
+
+16:10:50 Warning: Test PA_Module : Starting testing
+
+16:10:50 Warning: "2015-11-05 16:10:50 "     Current run times:  33
+
+16:10:59 Warning: startAllPowerTime:  2.121 s
+
+16:11:01 Warning: startAllPowerTime2:  2.169 s
+
+16:11:03 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:11:05 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:11:05 Warning: Test PA_Module : End testing
+
+16:11:05 Warning: ======================================
+
+16:11:05 Warning: Test PA_Module : Starting testing
+
+16:11:05 Warning: "2015-11-05 16:11:05 "     Current run times:  34
+
+16:11:13 Warning: startAllPowerTime:  2.122 s
+
+16:11:15 Warning: startAllPowerTime2:  2.168 s
+
+16:11:17 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:11:20 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:11:20 Warning: Test PA_Module : End testing
+
+16:11:20 Warning: ======================================
+
+16:11:20 Warning: Test PA_Module : Starting testing
+
+16:11:20 Warning: "2015-11-05 16:11:20 "     Current run times:  35
+
+16:11:28 Warning: startAllPowerTime:  2.106 s
+
+16:11:30 Warning: startAllPowerTime2:  2.168 s
+
+16:11:32 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:11:34 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:11:34 Warning: Test PA_Module : End testing
+
+16:11:34 Warning: ======================================
+
+16:11:34 Warning: Test PA_Module : Starting testing
+
+16:11:34 Warning: "2015-11-05 16:11:34 "     Current run times:  36
+
+16:11:43 Warning: startAllPowerTime:  2.106 s
+
+16:11:45 Warning: startAllPowerTime2:  2.184 s
+
+16:11:47 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:11:49 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:11:49 Warning: Test PA_Module : End testing
+
+16:11:49 Warning: ======================================
+
+16:11:49 Warning: Test PA_Module : Starting testing
+
+16:11:49 Warning: "2015-11-05 16:11:49 "     Current run times:  37
+
+16:11:57 Warning: startAllPowerTime:  2.106 s
+
+16:11:59 Warning: startAllPowerTime2:  2.168 s
+
+16:12:01 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:12:04 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:12:04 Warning: Test PA_Module : End testing
+
+16:12:04 Warning: ======================================
+
+16:12:04 Warning: Test PA_Module : Starting testing
+
+16:12:04 Warning: "2015-11-05 16:12:04 "     Current run times:  38
+
+16:12:12 Warning: startAllPowerTime:  2.121 s
+
+16:12:14 Warning: startAllPowerTime2:  2.169 s
+
+16:12:16 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:12:18 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:12:18 Warning: Test PA_Module : End testing
+
+16:12:18 Warning: ======================================
+
+16:12:18 Warning: Test PA_Module : Starting testing
+
+16:12:18 Warning: "2015-11-05 16:12:18 "     Current run times:  39
+
+16:12:26 Warning: startAllPowerTime:  2.122 s
+
+16:12:29 Warning: startAllPowerTime2:  2.168 s
+
+16:12:31 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:12:33 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:12:33 Warning: Test PA_Module : End testing
+
+16:12:33 Warning: ======================================
+
+16:12:33 Warning: Test PA_Module : Starting testing
+
+16:12:33 Warning: "2015-11-05 16:12:33 "     Current run times:  40
+
+16:12:41 Warning: startAllPowerTime:  2.106 s
+
+16:12:43 Warning: startAllPowerTime2:  2.184 s
+
+16:12:45 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:12:48 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:12:48 Warning: Test PA_Module : End testing
+
+16:12:48 Warning: ======================================
+
+16:12:48 Warning: Test PA_Module : Starting testing
+
+16:12:48 Warning: "2015-11-05 16:12:48 "     Current run times:  41
+
+16:12:56 Warning: startAllPowerTime:  2.106 s
+
+16:12:58 Warning: startAllPowerTime2:  2.168 s
+
+16:13:00 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:13:02 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:13:02 Warning: Test PA_Module : End testing
+
+16:13:02 Warning: ======================================
+
+16:13:02 Warning: Test PA_Module : Starting testing
+
+16:13:02 Warning: "2015-11-05 16:13:02 "     Current run times:  42
+
+16:13:10 Warning: startAllPowerTime:  2.106 s
+
+16:13:13 Warning: startAllPowerTime2:  2.168 s
+
+16:13:15 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:13:17 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:13:17 Warning: Test PA_Module : End testing
+
+16:13:17 Warning: ======================================
+
+16:13:17 Warning: Test PA_Module : Starting testing
+
+16:13:17 Warning: "2015-11-05 16:13:17 "     Current run times:  43
+
+16:13:25 Warning: startAllPowerTime:  2.122 s
+
+16:13:27 Warning: startAllPowerTime2:  2.168 s
+
+16:13:29 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:13:32 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:13:32 Warning: Test PA_Module : End testing
+
+16:13:32 Warning: ======================================
+
+16:13:32 Warning: Test PA_Module : Starting testing
+
+16:13:32 Warning: "2015-11-05 16:13:32 "     Current run times:  44
+
+16:13:40 Warning: startAllPowerTime:  2.106 s
+
+16:13:42 Warning: startAllPowerTime2:  2.169 s
+
+16:13:44 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:13:46 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:13:46 Warning: Test PA_Module : End testing
+
+16:13:46 Warning: ======================================
+
+16:13:46 Warning: Test PA_Module : Starting testing
+
+16:13:46 Warning: "2015-11-05 16:13:46 "     Current run times:  45
+
+16:13:55 Warning: startAllPowerTime:  2.106 s
+
+16:13:57 Warning: startAllPowerTime2:  2.184 s
+
+16:13:59 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:14:01 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:14:01 Warning: Test PA_Module : End testing
+
+16:14:01 Warning: ======================================
+
+16:14:01 Warning: Test PA_Module : Starting testing
+
+16:14:01 Warning: "2015-11-05 16:14:01 "     Current run times:  46
+
+16:14:09 Warning: startAllPowerTime:  2.106 s
+
+16:14:11 Warning: startAllPowerTime2:  2.168 s
+
+16:14:13 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:14:16 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:14:16 Warning: Test PA_Module : End testing
+
+16:14:16 Warning: ======================================
+
+16:14:16 Warning: Test PA_Module : Starting testing
+
+16:14:16 Warning: "2015-11-05 16:14:16 "     Current run times:  47
+
+16:14:24 Warning: startAllPowerTime:  2.122 s
+
+16:14:26 Warning: startAllPowerTime2:  2.168 s
+
+16:14:28 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:14:30 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:14:30 Warning: Test PA_Module : End testing
+
+16:14:30 Warning: ======================================
+
+16:14:30 Warning: Test PA_Module : Starting testing
+
+16:14:30 Warning: "2015-11-05 16:14:30 "     Current run times:  48
+
+16:14:39 Warning: startAllPowerTime:  2.106 s
+
+16:14:41 Warning: startAllPowerTime2:  2.169 s
+
+16:14:43 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:14:45 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:14:45 Warning: Test PA_Module : End testing
+
+16:14:45 Warning: ======================================
+
+16:14:45 Warning: Test PA_Module : Starting testing
+
+16:14:45 Warning: "2015-11-05 16:14:45 "     Current run times:  49
+
+16:14:53 Warning: startAllPowerTime:  2.106 s
+
+16:14:55 Warning: startAllPowerTime2:  2.184 s
+
+16:14:57 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:15:00 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:15:00 Warning: Test PA_Module : End testing
+
+16:15:00 Warning: ======================================
+
+16:15:00 Warning: Test PA_Module : Starting testing
+
+16:15:00 Warning: "2015-11-05 16:15:00 "     Current run times:  50
+
+16:15:08 Warning: startAllPowerTime:  2.106 s
+
+16:15:10 Warning: startAllPowerTime2:  2.168 s
+
+16:15:12 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:15:14 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:15:14 Warning: Test PA_Module : End testing
+
+16:15:14 Warning: ======================================
+
+16:15:14 Warning: Test PA_Module : Starting testing
+
+16:15:14 Warning: "2015-11-05 16:15:14 "     Current run times:  51
+
+16:15:22 Warning: startAllPowerTime:  2.106 s
+
+16:15:25 Warning: startAllPowerTime2:  2.168 s
+
+16:15:27 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:15:29 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:15:29 Warning: Test PA_Module : End testing
+
+16:15:29 Warning: ======================================
+
+16:15:29 Warning: Test PA_Module : Starting testing
+
+16:15:29 Warning: "2015-11-05 16:15:29 "     Current run times:  52
+
+16:15:37 Warning: startAllPowerTime:  2.121 s
+
+16:15:39 Warning: startAllPowerTime2:  2.169 s
+
+16:15:41 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:15:44 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:15:44 Warning: Test PA_Module : End testing
+
+16:15:44 Warning: ======================================
+
+16:15:44 Warning: Test PA_Module : Starting testing
+
+16:15:44 Warning: "2015-11-05 16:15:44 "     Current run times:  53
+
+16:15:52 Warning: startAllPowerTime:  2.106 s
+
+16:15:54 Warning: startAllPowerTime2:  2.168 s
+
+16:15:56 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:15:58 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:15:58 Warning: Test PA_Module : End testing
+
+16:15:58 Warning: ======================================
+
+16:15:58 Warning: Test PA_Module : Starting testing
+
+16:15:58 Warning: "2015-11-05 16:15:58 "     Current run times:  54
+
+16:16:06 Warning: startAllPowerTime:  2.106 s
+
+16:16:09 Warning: startAllPowerTime2:  2.184 s
+
+16:16:11 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:16:13 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:16:13 Warning: Test PA_Module : End testing
+
+16:16:13 Warning: ======================================
+
+16:16:13 Warning: Test PA_Module : Starting testing
+
+16:16:13 Warning: "2015-11-05 16:16:13 "     Current run times:  55
+
+16:16:21 Warning: startAllPowerTime:  2.106 s
+
+16:16:23 Warning: startAllPowerTime2:  2.168 s
+
+16:16:25 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:16:28 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:16:28 Warning: Test PA_Module : End testing
+
+16:16:28 Warning: ======================================
+
+16:16:28 Warning: Test PA_Module : Starting testing
+
+16:16:28 Warning: "2015-11-05 16:16:28 "     Current run times:  56
+
+16:16:36 Warning: startAllPowerTime:  2.106 s
+
+16:16:38 Warning: startAllPowerTime2:  2.168 s
+
+16:16:40 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:16:42 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:16:42 Warning: Test PA_Module : End testing
+
+16:16:42 Warning: ======================================
+
+16:16:42 Warning: Test PA_Module : Starting testing
+
+16:16:42 Warning: "2015-11-05 16:16:42 "     Current run times:  57
+
+16:16:50 Warning: startAllPowerTime:  2.121 s
+
+16:16:53 Warning: startAllPowerTime2:  2.169 s
+
+16:16:55 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:16:57 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:16:57 Warning: Test PA_Module : End testing
+
+16:16:57 Warning: ======================================
+
+16:16:57 Warning: Test PA_Module : Starting testing
+
+16:16:57 Warning: "2015-11-05 16:16:57 "     Current run times:  58
+
+16:17:05 Warning: startAllPowerTime:  2.106 s
+
+16:17:07 Warning: startAllPowerTime2:  2.168 s
+
+16:17:09 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:17:12 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:17:12 Warning: Test PA_Module : End testing
+
+16:17:12 Warning: ======================================
+
+16:17:12 Warning: Test PA_Module : Starting testing
+
+16:17:12 Warning: "2015-11-05 16:17:12 "     Current run times:  59
+
+16:17:20 Warning: startAllPowerTime:  2.106 s
+
+16:17:22 Warning: startAllPowerTime2:  2.184 s
+
+16:17:24 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:17:26 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:17:26 Warning: Test PA_Module : End testing
+
+16:17:26 Warning: ======================================
+
+16:17:26 Warning: Test PA_Module : Starting testing
+
+16:17:26 Warning: "2015-11-05 16:17:26 "     Current run times:  60
+
+16:17:34 Warning: startAllPowerTime:  2.106 s
+
+16:17:37 Warning: startAllPowerTime2:  2.169 s
+
+16:17:39 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:17:41 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:17:41 Warning: Test PA_Module : End testing
+
+16:17:41 Warning: ======================================
+
+16:17:41 Warning: Test PA_Module : Starting testing
+
+16:17:41 Warning: "2015-11-05 16:17:41 "     Current run times:  61
+
+16:17:49 Warning: startAllPowerTime:  2.121 s
+
+16:17:51 Warning: startAllPowerTime2:  2.169 s
+
+16:17:53 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:17:55 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:17:55 Warning: Test PA_Module : End testing
+
+16:17:55 Warning: ======================================
+
+16:17:55 Warning: Test PA_Module : Starting testing
+
+16:17:55 Warning: "2015-11-05 16:17:55 "     Current run times:  62
+
+16:18:04 Warning: startAllPowerTime:  2.121 s
+
+16:18:06 Warning: startAllPowerTime2:  2.169 s
+
+16:18:08 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:18:10 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:18:10 Warning: Test PA_Module : End testing
+
+16:18:10 Warning: ======================================
+
+16:18:10 Warning: Test PA_Module : Starting testing
+
+16:18:10 Warning: "2015-11-05 16:18:10 "     Current run times:  63
+
+16:18:18 Warning: startAllPowerTime:  2.106 s
+
+16:18:20 Warning: startAllPowerTime2:  2.168 s
+
+16:18:23 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:18:25 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:18:25 Warning: Test PA_Module : End testing
+
+16:18:25 Warning: ======================================
+
+16:18:25 Warning: Test PA_Module : Starting testing
+
+16:18:25 Warning: "2015-11-05 16:18:25 "     Current run times:  64
+
+16:18:33 Warning: startAllPowerTime:  2.106 s
+
+16:18:35 Warning: startAllPowerTime2:  2.169 s
+
+16:18:37 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:18:39 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:18:39 Warning: Test PA_Module : End testing
+
+16:18:39 Warning: ======================================
+
+16:18:39 Warning: Test PA_Module : Starting testing
+
+16:18:39 Warning: "2015-11-05 16:18:39 "     Current run times:  65
+
+16:18:48 Warning: startAllPowerTime:  2.106 s
+
+16:18:50 Warning: startAllPowerTime2:  2.184 s
+
+16:18:52 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:18:54 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:18:54 Warning: Test PA_Module : End testing
+
+16:18:54 Warning: ======================================
+
+16:18:54 Warning: Test PA_Module : Starting testing
+
+16:18:54 Warning: "2015-11-05 16:18:54 "     Current run times:  66
+
+16:19:02 Warning: startAllPowerTime:  2.106 s
+
+16:19:04 Warning: startAllPowerTime2:  2.168 s
+
+16:19:07 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:19:09 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:19:09 Warning: Test PA_Module : End testing
+
+16:19:09 Warning: ======================================
+
+16:19:09 Warning: Test PA_Module : Starting testing
+
+16:19:09 Warning: "2015-11-05 16:19:09 "     Current run times:  67
+
+16:19:17 Warning: startAllPowerTime:  2.122 s
+
+16:19:19 Warning: startAllPowerTime2:  2.168 s
+
+16:19:21 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:19:23 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:19:23 Warning: Test PA_Module : End testing
+
+16:19:23 Warning: ======================================
+
+16:19:23 Warning: Test PA_Module : Starting testing
+
+16:19:23 Warning: "2015-11-05 16:19:23 "     Current run times:  68
+
+16:19:32 Warning: startAllPowerTime:  2.106 s
+
+16:19:34 Warning: startAllPowerTime2:  2.168 s
+
+16:19:36 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:19:38 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:19:38 Warning: Test PA_Module : End testing
+
+16:19:38 Warning: ======================================
+
+16:19:38 Warning: Test PA_Module : Starting testing
+
+16:19:38 Warning: "2015-11-05 16:19:38 "     Current run times:  69
+
+16:19:46 Warning: startAllPowerTime:  2.106 s
+
+16:19:48 Warning: startAllPowerTime2:  2.184 s
+
+16:19:51 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:19:53 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:19:53 Warning: Test PA_Module : End testing
+
+16:19:53 Warning: ======================================
+
+16:19:53 Warning: Test PA_Module : Starting testing
+
+16:19:53 Warning: "2015-11-05 16:19:53 "     Current run times:  70
+
+16:20:01 Warning: startAllPowerTime:  2.106 s
+
+16:20:03 Warning: startAllPowerTime2:  2.169 s
+
+16:20:05 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:20:07 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:20:07 Warning: Test PA_Module : End testing
+
+16:20:07 Warning: ======================================
+
+16:20:07 Warning: Test PA_Module : Starting testing
+
+16:20:07 Warning: "2015-11-05 16:20:07 "     Current run times:  71
+
+16:20:16 Warning: startAllPowerTime:  2.106 s
+
+16:20:18 Warning: startAllPowerTime2:  2.168 s
+
+16:20:20 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:20:22 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:20:22 Warning: Test PA_Module : End testing
+
+16:20:22 Warning: ======================================
+
+16:20:22 Warning: Test PA_Module : Starting testing
+
+16:20:22 Warning: "2015-11-05 16:20:22 "     Current run times:  72
+
+16:20:30 Warning: startAllPowerTime:  2.121 s
+
+16:20:32 Warning: startAllPowerTime2:  2.169 s
+
+16:20:35 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:20:37 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:20:37 Warning: Test PA_Module : End testing
+
+16:20:37 Warning: ======================================
+
+16:20:37 Warning: Test PA_Module : Starting testing
+
+16:20:37 Warning: "2015-11-05 16:20:37 "     Current run times:  73
+
+16:20:45 Warning: startAllPowerTime:  2.106 s
+
+16:20:47 Warning: startAllPowerTime2:  2.169 s
+
+16:20:49 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:20:51 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:20:51 Warning: Test PA_Module : End testing
+
+16:20:51 Warning: ======================================
+
+16:20:51 Warning: Test PA_Module : Starting testing
+
+16:20:51 Warning: "2015-11-05 16:20:51 "     Current run times:  74
+
+16:20:59 Warning: startAllPowerTime:  2.106 s
+
+16:21:02 Warning: startAllPowerTime2:  2.184 s
+
+16:21:04 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:21:06 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:21:06 Warning: Test PA_Module : End testing
+
+16:21:06 Warning: ======================================
+
+16:21:06 Warning: Test PA_Module : Starting testing
+
+16:21:06 Warning: "2015-11-05 16:21:06 "     Current run times:  75
+
+16:21:14 Warning: startAllPowerTime:  2.106 s
+
+16:21:16 Warning: startAllPowerTime2:  2.169 s
+
+16:21:18 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:21:21 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:21:21 Warning: Test PA_Module : End testing
+
+16:21:21 Warning: ======================================
+
+16:21:21 Warning: Test PA_Module : Starting testing
+
+16:21:21 Warning: "2015-11-05 16:21:21 "     Current run times:  76
+
+16:21:29 Warning: startAllPowerTime:  2.121 s
+
+16:21:31 Warning: startAllPowerTime2:  2.169 s
+
+16:21:33 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:21:35 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:21:35 Warning: Test PA_Module : End testing
+
+16:21:35 Warning: ======================================
+
+16:21:35 Warning: Test PA_Module : Starting testing
+
+16:21:35 Warning: "2015-11-05 16:21:35 "     Current run times:  77
+
+16:21:43 Warning: startAllPowerTime:  2.122 s
+
+16:21:46 Warning: startAllPowerTime2:  2.168 s
+
+16:21:48 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:21:50 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:21:50 Warning: Test PA_Module : End testing
+
+16:21:50 Warning: ======================================
+
+16:21:50 Warning: Test PA_Module : Starting testing
+
+16:21:50 Warning: "2015-11-05 16:21:50 "     Current run times:  78
+
+16:21:58 Warning: startAllPowerTime:  2.106 s
+
+16:22:00 Warning: startAllPowerTime2:  2.168 s
+
+16:22:02 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:22:05 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:22:05 Warning: Test PA_Module : End testing
+
+16:22:05 Warning: ======================================
+
+16:22:05 Warning: Test PA_Module : Starting testing
+
+16:22:05 Warning: "2015-11-05 16:22:05 "     Current run times:  79
+
+16:22:13 Warning: startAllPowerTime:  2.106 s
+
+16:22:15 Warning: startAllPowerTime2:  2.184 s
+
+16:22:17 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:22:19 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:22:19 Warning: Test PA_Module : End testing
+
+16:22:19 Warning: ======================================
+
+16:22:19 Warning: Test PA_Module : Starting testing
+
+16:22:19 Warning: "2015-11-05 16:22:19 "     Current run times:  80
+
+16:22:27 Warning: startAllPowerTime:  2.106 s
+
+16:22:30 Warning: startAllPowerTime2:  2.168 s
+
+16:22:32 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:22:34 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:22:34 Warning: Test PA_Module : End testing
+
+16:22:34 Warning: ======================================
+
+16:22:34 Warning: Test PA_Module : Starting testing
+
+16:22:34 Warning: "2015-11-05 16:22:34 "     Current run times:  81
+
+16:22:42 Warning: startAllPowerTime:  2.106 s
+
+16:22:44 Warning: startAllPowerTime2:  2.168 s
+
+16:22:46 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:22:49 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:22:49 Warning: Test PA_Module : End testing
+
+16:22:49 Warning: ======================================
+
+16:22:49 Warning: Test PA_Module : Starting testing
+
+16:22:49 Warning: "2015-11-05 16:22:49 "     Current run times:  82
+
+16:22:57 Warning: startAllPowerTime:  2.121 s
+
+16:22:59 Warning: startAllPowerTime2:  2.169 s
+
+16:23:01 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:23:03 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:23:03 Warning: Test PA_Module : End testing
+
+16:23:03 Warning: ======================================
+
+16:23:03 Warning: Test PA_Module : Starting testing
+
+16:23:03 Warning: "2015-11-05 16:23:03 "     Current run times:  83
+
+16:23:11 Warning: startAllPowerTime:  2.106 s
+
+16:23:14 Warning: startAllPowerTime2:  2.169 s
+
+16:23:16 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:23:18 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:23:18 Warning: Test PA_Module : End testing
+
+16:23:18 Warning: ======================================
+
+16:23:18 Warning: Test PA_Module : Starting testing
+
+16:23:18 Warning: "2015-11-05 16:23:18 "     Current run times:  84
+
+16:23:26 Warning: startAllPowerTime:  2.106 s
+
+16:23:28 Warning: startAllPowerTime2:  2.184 s
+
+16:23:30 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:23:33 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:23:33 Warning: Test PA_Module : End testing
+
+16:23:33 Warning: ======================================
+
+16:23:33 Warning: Test PA_Module : Starting testing
+
+16:23:33 Warning: "2015-11-05 16:23:33 "     Current run times:  85
+
+16:23:41 Warning: startAllPowerTime:  2.106 s
+
+16:23:43 Warning: startAllPowerTime2:  2.169 s
+
+16:23:45 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:23:47 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:23:47 Warning: Test PA_Module : End testing
+
+16:23:47 Warning: ======================================
+
+16:23:47 Warning: Test PA_Module : Starting testing
+
+16:23:47 Warning: "2015-11-05 16:23:47 "     Current run times:  86
+
+16:23:55 Warning: startAllPowerTime:  2.121 s
+
+16:23:58 Warning: startAllPowerTime2:  2.169 s
+
+16:24:00 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:24:02 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:24:02 Warning: Test PA_Module : End testing
+
+16:24:02 Warning: ======================================
+
+16:24:02 Warning: Test PA_Module : Starting testing
+
+16:24:02 Warning: "2015-11-05 16:24:02 "     Current run times:  87
+
+16:24:10 Warning: startAllPowerTime:  2.122 s
+
+16:24:12 Warning: startAllPowerTime2:  2.168 s
+
+16:24:14 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:24:16 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:24:16 Warning: Test PA_Module : End testing
+
+16:24:16 Warning: ======================================
+
+16:24:16 Warning: Test PA_Module : Starting testing
+
+16:24:16 Warning: "2015-11-05 16:24:16 "     Current run times:  88
+
+16:24:25 Warning: startAllPowerTime:  2.106 s
+
+16:24:27 Warning: startAllPowerTime2:  2.168 s
+
+16:24:29 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:24:31 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:24:31 Warning: Test PA_Module : End testing
+
+16:24:31 Warning: ======================================
+
+16:24:31 Warning: Test PA_Module : Starting testing
+
+16:24:31 Warning: "2015-11-05 16:24:31 "     Current run times:  89
+
+16:24:39 Warning: startAllPowerTime:  2.106 s
+
+16:24:41 Warning: startAllPowerTime2:  2.184 s
+
+16:24:44 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:24:46 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:24:46 Warning: Test PA_Module : End testing
+
+16:24:46 Warning: ======================================
+
+16:24:46 Warning: Test PA_Module : Starting testing
+
+16:24:46 Warning: "2015-11-05 16:24:46 "     Current run times:  90
+
+16:24:54 Warning: startAllPowerTime:  2.106 s
+
+16:24:56 Warning: startAllPowerTime2:  2.169 s
+
+16:24:58 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:25:00 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:25:00 Warning: Test PA_Module : End testing
+
+16:25:00 Warning: ======================================
+
+16:25:00 Warning: Test PA_Module : Starting testing
+
+16:25:00 Warning: "2015-11-05 16:25:00 "     Current run times:  91
+
+16:25:09 Warning: startAllPowerTime:  2.121 s
+
+16:25:11 Warning: startAllPowerTime2:  2.169 s
+
+16:25:13 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:25:15 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:25:15 Warning: Test PA_Module : End testing
+
+16:25:15 Warning: ======================================
+
+16:25:15 Warning: Test PA_Module : Starting testing
+
+16:25:15 Warning: "2015-11-05 16:25:15 "     Current run times:  92
+
+16:25:23 Warning: startAllPowerTime:  2.122 s
+
+16:25:25 Warning: startAllPowerTime2:  2.168 s
+
+16:25:28 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:25:30 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:25:30 Warning: Test PA_Module : End testing
+
+16:25:30 Warning: ======================================
+
+16:25:30 Warning: Test PA_Module : Starting testing
+
+16:25:30 Warning: "2015-11-05 16:25:30 "     Current run times:  93
+
+16:25:38 Warning: startAllPowerTime:  2.106 s
+
+16:25:40 Warning: startAllPowerTime2:  2.168 s
+
+16:25:42 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:25:44 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:25:44 Warning: Test PA_Module : End testing
+
+16:25:44 Warning: ======================================
+
+16:25:44 Warning: Test PA_Module : Starting testing
+
+16:25:44 Warning: "2015-11-05 16:25:44 "     Current run times:  94
+
+16:25:53 Warning: startAllPowerTime:  2.106 s
+
+16:25:55 Warning: startAllPowerTime2:  2.184 s
+
+16:25:57 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:25:59 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:25:59 Warning: Test PA_Module : End testing
+
+16:25:59 Warning: ======================================
+
+16:25:59 Warning: Test PA_Module : Starting testing
+
+16:25:59 Warning: "2015-11-05 16:25:59 "     Current run times:  95
+
+16:26:07 Warning: startAllPowerTime:  2.106 s
+
+16:26:09 Warning: startAllPowerTime2:  2.168 s
+
+16:26:11 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:26:14 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:26:14 Warning: Test PA_Module : End testing
+
+16:26:14 Warning: ======================================
+
+16:26:14 Warning: Test PA_Module : Starting testing
+
+16:26:14 Warning: "2015-11-05 16:26:14 "     Current run times:  96
+
+16:26:22 Warning: startAllPowerTime:  2.121 s
+
+16:26:24 Warning: startAllPowerTime2:  2.169 s
+
+16:26:26 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:26:28 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:26:28 Warning: Test PA_Module : End testing
+
+16:26:28 Warning: ======================================
+
+16:26:28 Warning: Test PA_Module : Starting testing
+
+16:26:28 Warning: "2015-11-05 16:26:28 "     Current run times:  97
+
+16:26:36 Warning: startAllPowerTime:  2.122 s
+
+16:26:39 Warning: startAllPowerTime2:  2.168 s
+
+16:26:41 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:26:43 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:26:43 Warning: Test PA_Module : End testing
+
+16:26:43 Warning: ======================================
+
+16:26:43 Warning: Test PA_Module : Starting testing
+
+16:26:43 Warning: "2015-11-05 16:26:43 "     Current run times:  98
+
+16:26:51 Warning: startAllPowerTime:  2.106 s
+
+16:26:53 Warning: startAllPowerTime2:  2.168 s
+
+16:26:55 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:26:58 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:26:58 Warning: Test PA_Module : End testing
+
+16:26:58 Warning: ======================================
+
+16:26:58 Warning: Test PA_Module : Starting testing
+
+16:26:58 Warning: "2015-11-05 16:26:58 "     Current run times:  99
+
+16:27:06 Warning: startAllPowerTime:  2.106 s
+
+16:27:08 Warning: startAllPowerTime2:  2.184 s
+
+16:27:10 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:27:12 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:27:12 Warning: Test PA_Module : End testing
+
+16:27:12 Warning: ======================================
+
+16:27:12 Warning: Test PA_Module : Starting testing
+
+16:27:12 Warning: "2015-11-05 16:27:12 "     Current run times:  100
+
+16:27:20 Warning: startAllPowerTime:  2.106 s
+
+16:27:23 Warning: startAllPowerTime2:  2.168 s
+
+16:27:25 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:27:27 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:27:27 Warning: Test PA_Module : End testing
+
+16:27:27 Warning: ======================================
+
+16:27:27 Warning: Test PA_Module : Starting testing
+
+16:27:27 Warning: "2015-11-05 16:27:27 "     Current run times:  101
+
+16:27:35 Warning: startAllPowerTime:  2.106 s
+
+16:27:37 Warning: startAllPowerTime2:  2.169 s
+
+16:27:39 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:27:42 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:27:42 Warning: Test PA_Module : End testing
+
+16:27:42 Warning: ======================================
+
+16:27:42 Warning: Test PA_Module : Starting testing
+
+16:27:42 Warning: "2015-11-05 16:27:42 "     Current run times:  102
+
+16:27:50 Warning: startAllPowerTime:  2.122 s
+
+16:27:52 Warning: startAllPowerTime2:  2.168 s
+
+16:27:54 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:27:56 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:27:56 Warning: Test PA_Module : End testing
+
+16:27:56 Warning: ======================================
+
+16:27:56 Warning: Test PA_Module : Starting testing
+
+16:27:56 Warning: "2015-11-05 16:27:56 "     Current run times:  103
+
+16:28:04 Warning: startAllPowerTime:  2.106 s
+
+16:28:07 Warning: startAllPowerTime2:  2.168 s
+
+16:28:09 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:28:11 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:28:11 Warning: Test PA_Module : End testing
+
+16:28:11 Warning: ======================================
+
+16:28:11 Warning: Test PA_Module : Starting testing
+
+16:28:11 Warning: "2015-11-05 16:28:11 "     Current run times:  104
+
+16:28:19 Warning: startAllPowerTime:  2.106 s
+
+16:28:21 Warning: startAllPowerTime2:  2.184 s
+
+16:28:23 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:28:25 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:28:25 Warning: Test PA_Module : End testing
+
+16:28:25 Warning: ======================================
+
+16:28:25 Warning: Test PA_Module : Starting testing
+
+16:28:25 Warning: "2015-11-05 16:28:25 "     Current run times:  105
+
+16:28:34 Warning: startAllPowerTime:  2.106 s
+
+16:28:36 Warning: startAllPowerTime2:  2.168 s
+
+16:28:38 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:28:40 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:28:40 Warning: Test PA_Module : End testing
+
+16:28:40 Warning: ======================================
+
+16:28:40 Warning: Test PA_Module : Starting testing
+
+16:28:40 Warning: "2015-11-05 16:28:40 "     Current run times:  106
+
+16:28:48 Warning: startAllPowerTime:  2.122 s
+
+16:28:51 Warning: startAllPowerTime2:  2.168 s
+
+16:28:53 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:28:55 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:28:55 Warning: Test PA_Module : End testing
+
+16:28:55 Warning: ======================================
+
+16:28:55 Warning: Test PA_Module : Starting testing
+
+16:28:55 Warning: "2015-11-05 16:28:55 "     Current run times:  107
+
+16:29:03 Warning: startAllPowerTime:  2.121 s
+
+16:29:05 Warning: startAllPowerTime2:  2.169 s
+
+16:29:07 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:29:09 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:29:09 Warning: Test PA_Module : End testing
+
+16:29:09 Warning: ======================================
+
+16:29:09 Warning: Test PA_Module : Starting testing
+
+16:29:09 Warning: "2015-11-05 16:29:09 "     Current run times:  108
+
+16:29:18 Warning: startAllPowerTime:  2.106 s
+
+16:29:20 Warning: startAllPowerTime2:  2.184 s
+
+16:29:22 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:29:24 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:29:24 Warning: Test PA_Module : End testing
+
+16:29:24 Warning: ======================================
+
+16:29:24 Warning: Test PA_Module : Starting testing
+
+16:29:24 Warning: "2015-11-05 16:29:24 "     Current run times:  109
+
+16:29:32 Warning: startAllPowerTime:  2.106 s
+
+16:29:35 Warning: startAllPowerTime2:  2.169 s
+
+16:29:37 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:29:39 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:29:39 Warning: Test PA_Module : End testing
+
+16:29:39 Warning: ======================================
+
+16:29:39 Warning: Test PA_Module : Starting testing
+
+16:29:39 Warning: "2015-11-05 16:29:39 "     Current run times:  110
+
+16:29:47 Warning: startAllPowerTime:  2.121 s
+
+16:29:49 Warning: startAllPowerTime2:  2.169 s
+
+16:29:51 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:29:54 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:29:54 Warning: Test PA_Module : End testing
+
+16:29:54 Warning: ======================================
+
+16:29:54 Warning: Test PA_Module : Starting testing
+
+16:29:54 Warning: "2015-11-05 16:29:54 "     Current run times:  111
+
+16:30:02 Warning: startAllPowerTime:  2.122 s
+
+16:30:04 Warning: startAllPowerTime2:  2.168 s
+
+16:30:06 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:30:08 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:30:08 Warning: Test PA_Module : End testing
+
+16:30:08 Warning: ======================================
+
+16:30:08 Warning: Test PA_Module : Starting testing
+
+16:30:08 Warning: "2015-11-05 16:30:08 "     Current run times:  112
+
+16:30:16 Warning: startAllPowerTime:  2.106 s
+
+16:30:19 Warning: startAllPowerTime2:  2.184 s
+
+16:30:21 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:30:23 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:30:23 Warning: Test PA_Module : End testing
+
+16:30:23 Warning: ======================================
+
+16:30:23 Warning: Test PA_Module : Starting testing
+
+16:30:23 Warning: "2015-11-05 16:30:23 "     Current run times:  113
+
+16:30:31 Warning: startAllPowerTime:  2.106 s
+
+16:30:33 Warning: startAllPowerTime2:  2.168 s
+
+16:30:35 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:30:38 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:30:38 Warning: Test PA_Module : End testing
+
+16:30:38 Warning: ======================================
+
+16:30:38 Warning: Test PA_Module : Starting testing
+
+16:30:38 Warning: "2015-11-05 16:30:38 "     Current run times:  114
+
+16:30:46 Warning: startAllPowerTime:  2.122 s
+
+16:30:48 Warning: startAllPowerTime2:  2.168 s
+
+16:30:50 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:30:52 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:30:52 Warning: Test PA_Module : End testing
+
+16:30:52 Warning: ======================================
+
+16:30:52 Warning: Test PA_Module : Starting testing
+
+16:30:52 Warning: "2015-11-05 16:30:52 "     Current run times:  115
+
+16:31:00 Warning: startAllPowerTime:  2.121 s
+
+16:31:03 Warning: startAllPowerTime2:  2.169 s
+
+16:31:05 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:31:07 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:31:07 Warning: Test PA_Module : End testing
+
+16:31:07 Warning: ======================================
+
+16:31:07 Warning: Test PA_Module : Starting testing
+
+16:31:07 Warning: "2015-11-05 16:31:07 "     Current run times:  116
+
+16:31:15 Warning: startAllPowerTime:  2.106 s
+
+16:31:17 Warning: startAllPowerTime2:  2.168 s
+
+16:31:19 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:31:22 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:31:22 Warning: Test PA_Module : End testing
+
+16:31:22 Warning: ======================================
+
+16:31:22 Warning: Test PA_Module : Starting testing
+
+16:31:22 Warning: "2015-11-05 16:31:22 "     Current run times:  117
+
+16:31:30 Warning: startAllPowerTime:  2.106 s
+
+16:31:32 Warning: startAllPowerTime2:  2.169 s
+
+16:31:34 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:31:36 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:31:36 Warning: Test PA_Module : End testing
+
+16:31:36 Warning: ======================================
+
+16:31:36 Warning: Test PA_Module : Starting testing
+
+16:31:36 Warning: "2015-11-05 16:31:36 "     Current run times:  118
+
+16:31:44 Warning: startAllPowerTime:  2.106 s
+
+16:31:47 Warning: startAllPowerTime2:  2.168 s
+
+16:31:49 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:31:51 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:31:51 Warning: Test PA_Module : End testing
+
+16:31:51 Warning: ======================================
+
+16:31:51 Warning: Test PA_Module : Starting testing
+
+16:31:51 Warning: "2015-11-05 16:31:51 "     Current run times:  119
+
+16:31:59 Warning: startAllPowerTime:  2.106 s
+
+16:32:01 Warning: startAllPowerTime2:  2.168 s
+
+16:32:03 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:32:06 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:32:06 Warning: Test PA_Module : End testing
+
+16:32:06 Warning: ======================================
+
+16:32:06 Warning: Test PA_Module : Starting testing
+
+16:32:06 Warning: "2015-11-05 16:32:06 "     Current run times:  120
+
+16:32:14 Warning: startAllPowerTime:  2.122 s
+
+16:32:16 Warning: startAllPowerTime2:  2.168 s
+
+16:32:18 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:32:20 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:32:20 Warning: Test PA_Module : End testing
+
+16:32:20 Warning: ======================================
+
+16:32:20 Warning: Test PA_Module : Starting testing
+
+16:32:20 Warning: "2015-11-05 16:32:20 "     Current run times:  121
+
+16:32:28 Warning: startAllPowerTime:  2.106 s
+
+16:32:31 Warning: startAllPowerTime2:  2.168 s
+
+16:32:33 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:32:35 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:32:35 Warning: Test PA_Module : End testing
+
+16:32:35 Warning: ======================================
+
+16:32:35 Warning: Test PA_Module : Starting testing
+
+16:32:35 Warning: "2015-11-05 16:32:35 "     Current run times:  122
+
+16:32:43 Warning: startAllPowerTime:  2.106 s
+
+16:32:45 Warning: startAllPowerTime2:  2.184 s
+
+16:32:47 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:32:49 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:32:49 Warning: Test PA_Module : End testing
+
+16:32:49 Warning: ======================================
+
+16:32:49 Warning: Test PA_Module : Starting testing
+
+16:32:49 Warning: "2015-11-05 16:32:49 "     Current run times:  123
+
+16:32:58 Warning: startAllPowerTime:  2.106 s
+
+16:33:00 Warning: startAllPowerTime2:  2.168 s
+
+16:33:02 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:33:04 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:33:04 Warning: Test PA_Module : End testing
+
+16:33:04 Warning: ======================================
+
+16:33:04 Warning: Test PA_Module : Starting testing
+
+16:33:04 Warning: "2015-11-05 16:33:04 "     Current run times:  124
+
+16:33:12 Warning: startAllPowerTime:  2.106 s
+
+16:33:15 Warning: startAllPowerTime2:  2.168 s
+
+16:33:17 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:33:19 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:33:19 Warning: Test PA_Module : End testing
+
+16:33:19 Warning: ======================================
+
+16:33:19 Warning: Test PA_Module : Starting testing
+
+16:33:19 Warning: "2015-11-05 16:33:19 "     Current run times:  125
+
+16:33:27 Warning: startAllPowerTime:  2.121 s
+
+16:33:29 Warning: startAllPowerTime2:  2.169 s
+
+16:33:31 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:33:33 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:33:33 Warning: Test PA_Module : End testing
+
+16:33:33 Warning: ======================================
+
+16:33:33 Warning: Test PA_Module : Starting testing
+
+16:33:33 Warning: "2015-11-05 16:33:33 "     Current run times:  126
+
+16:33:42 Warning: startAllPowerTime:  2.106 s
+
+16:33:44 Warning: startAllPowerTime2:  2.168 s
+
+16:33:46 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:33:48 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:33:48 Warning: Test PA_Module : End testing
+
+16:33:48 Warning: ======================================
+
+16:33:48 Warning: Test PA_Module : Starting testing
+
+16:33:48 Warning: "2015-11-05 16:33:48 "     Current run times:  127
+
+16:33:56 Warning: startAllPowerTime:  2.106 s
+
+16:33:58 Warning: startAllPowerTime2:  2.184 s
+
+16:34:01 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:34:03 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:34:03 Warning: Test PA_Module : End testing
+
+16:34:03 Warning: ======================================
+
+16:34:03 Warning: Test PA_Module : Starting testing
+
+16:34:03 Warning: "2015-11-05 16:34:03 "     Current run times:  128
+
+16:34:11 Warning: startAllPowerTime:  2.106 s
+
+16:34:13 Warning: startAllPowerTime2:  2.168 s
+
+16:34:15 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:34:17 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:34:17 Warning: Test PA_Module : End testing
+
+16:34:17 Warning: ======================================
+
+16:34:17 Warning: Test PA_Module : Starting testing
+
+16:34:17 Warning: "2015-11-05 16:34:17 "     Current run times:  129
+
+16:34:26 Warning: startAllPowerTime:  2.122 s
+
+16:34:28 Warning: startAllPowerTime2:  2.168 s
+
+16:34:30 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:34:32 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:34:32 Warning: Test PA_Module : End testing
+
+16:34:32 Warning: ======================================
+
+16:34:32 Warning: Test PA_Module : Starting testing
+
+16:34:32 Warning: "2015-11-05 16:34:32 "     Current run times:  130
+
+16:34:40 Warning: startAllPowerTime:  2.106 s
+
+16:34:43 Warning: startAllPowerTime2:  2.169 s
+
+16:34:45 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:34:47 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:34:47 Warning: Test PA_Module : End testing
+
+16:34:47 Warning: ======================================
+
+16:34:47 Warning: Test PA_Module : Starting testing
+
+16:34:47 Warning: "2015-11-05 16:34:47 "     Current run times:  131
+
+16:34:55 Warning: startAllPowerTime:  2.106 s
+
+16:34:57 Warning: startAllPowerTime2:  2.184 s
+
+16:34:59 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:35:02 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:35:02 Warning: Test PA_Module : End testing
+
+16:35:02 Warning: ======================================
+
+16:35:02 Warning: Test PA_Module : Starting testing
+
+16:35:02 Warning: "2015-11-05 16:35:02 "     Current run times:  132
+
+16:35:10 Warning: startAllPowerTime:  2.106 s
+
+16:35:12 Warning: startAllPowerTime2:  2.184 s
+
+16:35:14 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:35:16 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:35:16 Warning: Test PA_Module : End testing
+
+16:35:16 Warning: ======================================
+
+16:35:16 Warning: Test PA_Module : Starting testing
+
+16:35:16 Warning: "2015-11-05 16:35:16 "     Current run times:  133
+
+16:35:24 Warning: startAllPowerTime:  2.121 s
+
+16:35:27 Warning: startAllPowerTime2:  2.169 s
+
+16:35:29 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:35:31 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:35:31 Warning: Test PA_Module : End testing
+
+16:35:31 Warning: ======================================
+
+16:35:31 Warning: Test PA_Module : Starting testing
+
+16:35:31 Warning: "2015-11-05 16:35:31 "     Current run times:  134
+
+16:35:39 Warning: startAllPowerTime:  2.106 s
+
+16:35:41 Warning: startAllPowerTime2:  2.168 s
+
+16:35:43 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:35:46 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:35:46 Warning: Test PA_Module : End testing
+
+16:35:46 Warning: ======================================
+
+16:35:46 Warning: Test PA_Module : Starting testing
+
+16:35:46 Warning: "2015-11-05 16:35:46 "     Current run times:  135
+
+16:35:54 Warning: startAllPowerTime:  2.106 s
+
+16:35:56 Warning: startAllPowerTime2:  2.184 s
+
+16:35:58 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:36:00 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:36:00 Warning: Test PA_Module : End testing
+
+16:36:00 Warning: ======================================
+
+16:36:00 Warning: Test PA_Module : Starting testing
+
+16:36:00 Warning: "2015-11-05 16:36:00 "     Current run times:  136
+
+16:36:08 Warning: startAllPowerTime:  2.106 s
+
+16:36:11 Warning: startAllPowerTime2:  2.168 s
+
+16:36:13 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:36:15 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:36:15 Warning: Test PA_Module : End testing
+
+16:36:15 Warning: ======================================
+
+16:36:15 Warning: Test PA_Module : Starting testing
+
+16:36:15 Warning: "2015-11-05 16:36:15 "     Current run times:  137
+
+16:36:23 Warning: startAllPowerTime:  2.121 s
+
+16:36:25 Warning: startAllPowerTime2:  2.169 s
+
+16:36:27 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:36:29 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:36:29 Warning: Test PA_Module : End testing
+
+16:36:29 Warning: ======================================
+
+16:36:29 Warning: Test PA_Module : Starting testing
+
+16:36:29 Warning: "2015-11-05 16:36:29 "     Current run times:  138
+
+16:36:38 Warning: startAllPowerTime:  2.106 s
+
+16:36:40 Warning: startAllPowerTime2:  2.168 s
+
+16:36:42 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:36:44 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:36:44 Warning: Test PA_Module : End testing
+
+16:36:44 Warning: ======================================
+
+16:36:44 Warning: Test PA_Module : Starting testing
+
+16:36:44 Warning: "2015-11-05 16:36:44 "     Current run times:  139
+
+16:36:52 Warning: startAllPowerTime:  2.106 s
+
+16:36:55 Warning: startAllPowerTime2:  2.184 s
+
+16:36:57 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:36:59 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:36:59 Warning: Test PA_Module : End testing
+
+16:36:59 Warning: ======================================
+
+16:36:59 Warning: Test PA_Module : Starting testing
+
+16:36:59 Warning: "2015-11-05 16:36:59 "     Current run times:  140
+
+16:37:07 Warning: startAllPowerTime:  2.106 s
+
+16:37:09 Warning: startAllPowerTime2:  2.169 s
+
+16:37:11 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:37:14 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:37:14 Warning: Test PA_Module : End testing
+
+16:37:14 Warning: ======================================
+
+16:37:14 Warning: Test PA_Module : Starting testing
+
+16:37:14 Warning: "2015-11-05 16:37:14 "     Current run times:  141
+
+16:37:22 Warning: startAllPowerTime:  2.106 s
+
+16:37:24 Warning: startAllPowerTime2:  2.168 s
+
+16:37:26 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:37:28 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:37:28 Warning: Test PA_Module : End testing
+
+16:37:28 Warning: ======================================
+
+16:37:28 Warning: Test PA_Module : Starting testing
+
+16:37:28 Warning: "2015-11-05 16:37:28 "     Current run times:  142
+
+16:37:36 Warning: startAllPowerTime:  2.121 s
+
+16:37:39 Warning: startAllPowerTime2:  2.169 s
+
+16:37:41 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:37:43 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:37:43 Warning: Test PA_Module : End testing
+
+16:37:43 Warning: ======================================
+
+16:37:43 Warning: Test PA_Module : Starting testing
+
+16:37:43 Warning: "2015-11-05 16:37:43 "     Current run times:  143
+
+16:37:51 Warning: startAllPowerTime:  2.106 s
+
+16:37:53 Warning: startAllPowerTime2:  2.169 s
+
+16:37:55 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:37:58 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:37:58 Warning: Test PA_Module : End testing
+
+16:37:58 Warning: ======================================
+
+16:37:58 Warning: Test PA_Module : Starting testing
+
+16:37:58 Warning: "2015-11-05 16:37:58 "     Current run times:  144
+
+16:38:06 Warning: startAllPowerTime:  2.106 s
+
+16:38:08 Warning: startAllPowerTime2:  2.184 s
+
+16:38:10 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:38:12 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:38:12 Warning: Test PA_Module : End testing
+
+16:38:12 Warning: ======================================
+
+16:38:12 Warning: Test PA_Module : Starting testing
+
+16:38:12 Warning: "2015-11-05 16:38:12 "     Current run times:  145
+
+16:38:20 Warning: startAllPowerTime:  2.106 s
+
+16:38:23 Warning: startAllPowerTime2:  2.169 s
+
+16:38:25 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:38:27 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:38:27 Warning: Test PA_Module : End testing
+
+16:38:27 Warning: ======================================
+
+16:38:27 Warning: Test PA_Module : Starting testing
+
+16:38:27 Warning: "2015-11-05 16:38:27 "     Current run times:  146
+
+16:38:35 Warning: startAllPowerTime:  2.121 s
+
+16:38:37 Warning: startAllPowerTime2:  2.169 s
+
+16:38:39 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:38:41 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:38:41 Warning: Test PA_Module : End testing
+
+16:38:41 Warning: ======================================
+
+16:38:41 Warning: Test PA_Module : Starting testing
+
+16:38:41 Warning: "2015-11-05 16:38:41 "     Current run times:  147
+
+16:38:50 Warning: startAllPowerTime:  2.121 s
+
+16:38:52 Warning: startAllPowerTime2:  2.169 s
+
+16:38:54 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:38:56 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:38:56 Warning: Test PA_Module : End testing
+
+16:38:56 Warning: ======================================
+
+16:38:56 Warning: Test PA_Module : Starting testing
+
+16:38:56 Warning: "2015-11-05 16:38:56 "     Current run times:  148
+
+16:39:04 Warning: startAllPowerTime:  2.106 s
+
+16:39:06 Warning: startAllPowerTime2:  2.168 s
+
+16:39:09 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:39:11 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:39:11 Warning: Test PA_Module : End testing
+
+16:39:11 Warning: ======================================
+
+16:39:11 Warning: Test PA_Module : Starting testing
+
+16:39:11 Warning: "2015-11-05 16:39:11 "     Current run times:  149
+
+16:39:19 Warning: startAllPowerTime:  2.106 s
+
+16:39:21 Warning: startAllPowerTime2:  2.184 s
+
+16:39:23 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:39:25 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:39:25 Warning: Test PA_Module : End testing
+
+16:39:25 Warning: ======================================
+
+16:39:25 Warning: Test PA_Module : Starting testing
+
+16:39:25 Warning: "2015-11-05 16:39:25 "     Current run times:  150
+
+16:39:34 Warning: startAllPowerTime:  2.106 s
+
+16:39:36 Warning: startAllPowerTime2:  2.184 s
+
+16:39:38 Warning: resetAllPowerAmpTime:  2.106 s
+
+16:39:40 Warning: resetAllPowerAmpTime2:  2.184 s
+
+16:39:40 Warning: Test PA_Module : End testing
+
+16:39:40 Warning: ======================================
+
+16:39:40 Warning: Test PA_Module : Starting testing
+
+16:39:40 Warning: "2015-11-05 16:39:40 "     Current run times:  151
+
+16:39:48 Warning: startAllPowerTime:  2.121 s
+
+16:39:51 Warning: startAllPowerTime2:  2.169 s
+
+16:39:53 Warning: resetAllPowerAmpTime:  2.121 s
+
+16:39:55 Warning: resetAllPowerAmpTime2:  2.169 s
+
+16:39:55 Warning: Test PA_Module : End testing
+
+16:39:55 Warning: ======================================
+
+16:39:55 Warning: Test PA_Module : Starting testing
+
+16:39:55 Warning: "2015-11-05 16:39:55 "     Current run times:  152
+
+16:40:03 Warning: startAllPowerTime:  2.106 s
+
+16:40:05 Warning: startAllPowerTime2:  2.168 s
+
+16:40:07 Warning: resetAllPowerAmpTime:  2.122 s
+
+16:40:10 Warning: resetAllPowerAmpTime2:  2.168 s
+
+16:40:10 Warning: Test PA_Module : End testing
+
+16:40:10 Warning: ======================================
+
+16:40:10 Warning: Test PA_Module : Starting testing
+
+16:40:10 Warning: "2015-11-05 16:40:10 "     Current run times:  153
+
