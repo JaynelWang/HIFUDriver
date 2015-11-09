@@ -1,5 +1,4 @@
 #include "mainwindow.h"
-#include "PhaseInfo/PhaseInfo.h"
 #include <QHBoxLayout>
 #include <QVBoxLayout>
 #include <QMessageBox>

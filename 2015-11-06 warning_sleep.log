@@ -1,0 +1,582 @@
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:54 Warning: QLayout: Attempting to add QLayout "" to MainWindow "", which already has a layout
+
+14:31:55 Warning: Test PA_Module : Starting testing
+
+14:31:55 Warning: "2015-11-06 14:31:55 "     Current run times:  1
+
+14:32:04 Warning: startAllPowerTime:  2.106 s
+
+14:32:06 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:32:08 Warning: startAllPowerTime2:  2.184 s
+
+14:32:10 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:32:10 Warning: Test PA_Module : End testing
+
+14:32:10 Warning: ======================================
+
+14:32:10 Warning: Test PA_Module : Starting testing
+
+14:32:10 Warning: "2015-11-06 14:32:10 "     Current run times:  2
+
+14:32:18 Warning: startAllPowerTime:  2.106 s
+
+14:32:20 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:32:23 Warning: startAllPowerTime2:  2.168 s
+
+14:32:25 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:32:25 Warning: Test PA_Module : End testing
+
+14:32:25 Warning: ======================================
+
+14:32:25 Warning: Test PA_Module : Starting testing
+
+14:32:25 Warning: "2015-11-06 14:32:25 "     Current run times:  3
+
+14:32:33 Warning: startAllPowerTime:  2.106 s
+
+14:32:35 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:32:37 Warning: startAllPowerTime2:  2.168 s
+
+14:32:39 Warning: resetAllPowerAmpTime2:  2.184 s
+
+14:32:39 Warning: Test PA_Module : End testing
+
+14:32:39 Warning: ======================================
+
+14:32:39 Warning: Test PA_Module : Starting testing
+
+14:32:39 Warning: "2015-11-06 14:32:39 "     Current run times:  4
+
+14:32:47 Warning: startAllPowerTime:  2.106 s
+
+14:32:50 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:32:52 Warning: startAllPowerTime2:  2.169 s
+
+14:32:54 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:32:54 Warning: Test PA_Module : End testing
+
+14:32:54 Warning: ======================================
+
+14:32:54 Warning: Test PA_Module : Starting testing
+
+14:32:54 Warning: "2015-11-06 14:32:54 "     Current run times:  5
+
+14:33:02 Warning: startAllPowerTime:  2.121 s
+
+14:33:04 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:33:06 Warning: startAllPowerTime2:  2.184 s
+
+14:33:09 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:33:09 Warning: Test PA_Module : End testing
+
+14:33:09 Warning: ======================================
+
+14:33:09 Warning: Test PA_Module : Starting testing
+
+14:33:09 Warning: "2015-11-06 14:33:09 "     Current run times:  6
+
+14:33:17 Warning: startAllPowerTime:  2.106 s
+
+14:33:19 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:33:21 Warning: startAllPowerTime2:  2.184 s
+
+14:33:23 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:33:23 Warning: Test PA_Module : End testing
+
+14:33:23 Warning: ======================================
+
+14:33:23 Warning: Test PA_Module : Starting testing
+
+14:33:23 Warning: "2015-11-06 14:33:23 "     Current run times:  7
+
+14:33:31 Warning: startAllPowerTime:  2.106 s
+
+14:33:34 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:33:36 Warning: startAllPowerTime2:  2.168 s
+
+14:33:38 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:33:38 Warning: Test PA_Module : End testing
+
+14:33:38 Warning: ======================================
+
+14:33:38 Warning: Test PA_Module : Starting testing
+
+14:33:38 Warning: "2015-11-06 14:33:38 "     Current run times:  8
+
+14:33:46 Warning: startAllPowerTime:  2.106 s
+
+14:33:48 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:33:50 Warning: startAllPowerTime2:  2.168 s
+
+14:33:53 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:33:53 Warning: Test PA_Module : End testing
+
+14:33:53 Warning: ======================================
+
+14:33:53 Warning: Test PA_Module : Starting testing
+
+14:33:53 Warning: "2015-11-06 14:33:53 "     Current run times:  9
+
+14:34:01 Warning: startAllPowerTime:  2.106 s
+
+14:34:03 Warning: resetAllPowerAmpTime:  2.121 s
+
+14:34:05 Warning: startAllPowerTime2:  2.169 s
+
+14:34:07 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:34:07 Warning: Test PA_Module : End testing
+
+14:34:07 Warning: ======================================
+
+14:34:07 Warning: Test PA_Module : Starting testing
+
+14:34:07 Warning: "2015-11-06 14:34:07 "     Current run times:  10
+
+14:34:15 Warning: startAllPowerTime:  2.122 s
+
+14:34:18 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:34:20 Warning: startAllPowerTime2:  2.168 s
+
+14:34:22 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:34:22 Warning: Test PA_Module : End testing
+
+14:34:22 Warning: ======================================
+
+14:34:22 Warning: Test PA_Module : Starting testing
+
+14:34:22 Warning: "2015-11-06 14:34:22 "     Current run times:  11
+
+14:34:30 Warning: startAllPowerTime:  2.106 s
+
+14:34:32 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:34:34 Warning: startAllPowerTime2:  2.184 s
+
+14:34:37 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:34:37 Warning: Test PA_Module : End testing
+
+14:34:37 Warning: ======================================
+
+14:34:37 Warning: Test PA_Module : Starting testing
+
+14:34:37 Warning: "2015-11-06 14:34:37 "     Current run times:  12
+
+14:34:45 Warning: startAllPowerTime:  2.106 s
+
+14:34:47 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:34:49 Warning: startAllPowerTime2:  2.169 s
+
+14:34:51 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:34:51 Warning: Test PA_Module : End testing
+
+14:34:51 Warning: ======================================
+
+14:34:51 Warning: Test PA_Module : Starting testing
+
+14:34:51 Warning: "2015-11-06 14:34:51 "     Current run times:  13
+
+14:34:59 Warning: startAllPowerTime:  2.106 s
+
+14:35:01 Warning: resetAllPowerAmpTime:  2.121 s
+
+14:35:04 Warning: startAllPowerTime2:  2.169 s
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 42 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 43 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 44 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 45 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 46 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 47 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 48 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 49 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 50 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 51 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 52 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 53 .
+
+14:35:05 Warning: POWER AMPLIFIER Cannot echo the voltage of # 54 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 55 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 57 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 58 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 59 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 60 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 61 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 62 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 63 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 64 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 66 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 67 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 68 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 69 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 70 .
+
+14:35:06 Warning: POWER AMPLIFIER Cannot echo the voltage of # 71 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 72 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 73 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 75 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 76 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 77 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 78 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 79 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 82 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 83 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 84 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 85 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 86 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 87 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 88 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 89 .
+
+14:35:07 Warning: POWER AMPLIFIER Cannot echo the voltage of # 90 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 91 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 92 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 93 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 94 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 95 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 96 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 97 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 98 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 100 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 101 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 102 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 103 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 104 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 105 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 106 .
+
+14:35:08 Warning: POWER AMPLIFIER Cannot echo the voltage of # 107 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 108 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 109 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 110 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 111 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 112 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 114 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 115 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 116 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 117 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 118 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 119 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 120 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 121 .
+
+14:35:09 Warning: POWER AMPLIFIER Cannot echo the voltage of # 122 .
+
+14:37:00 Warning: POWER AMPLIFIER Cannot echo the voltage of # 123 .
+
+14:37:00 Warning: POWER AMPLIFIER Cannot echo the voltage of # 125 .
+
+14:37:05 Warning: POWER AMPLIFIER Failed to reset all the power amplifiers.
+
+14:37:05 Warning: POWER AMPLIFIER 76 power amplifiers have error.
+
+14:37:05 Warning: POWER AMPLIFIER They are: # (42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 75, 76, 77, 78, 79, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125)
+
+14:37:05 Warning: Reset all result: false
+
+14:37:05 Warning: resetAllPowerAmpTime2:  121.053 s
+
+14:37:05 Warning: Test PA_Module : End testing
+
+14:37:05 Warning: ======================================
+
+14:37:05 Warning: Test PA_Module : Starting testing
+
+14:37:05 Warning: "2015-11-06 14:37:05 "     Current run times:  14
+
+14:37:14 Warning: startAllPowerTime:  2.122 s
+
+14:37:16 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:37:18 Warning: startAllPowerTime2:  2.184 s
+
+14:37:20 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:37:20 Warning: Test PA_Module : End testing
+
+14:37:20 Warning: ======================================
+
+14:37:20 Warning: Test PA_Module : Starting testing
+
+14:37:20 Warning: "2015-11-06 14:37:20 "     Current run times:  15
+
+14:37:28 Warning: startAllPowerTime:  2.106 s
+
+14:37:30 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:37:33 Warning: startAllPowerTime2:  2.168 s
+
+14:37:35 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:37:35 Warning: Test PA_Module : End testing
+
+14:37:35 Warning: ======================================
+
+14:37:35 Warning: Test PA_Module : Starting testing
+
+14:37:35 Warning: "2015-11-06 14:37:35 "     Current run times:  16
+
+14:37:43 Warning: startAllPowerTime:  2.106 s
+
+14:37:45 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:37:47 Warning: startAllPowerTime2:  2.168 s
+
+14:37:49 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:37:49 Warning: Test PA_Module : End testing
+
+14:37:49 Warning: ======================================
+
+14:37:49 Warning: Test PA_Module : Starting testing
+
+14:37:49 Warning: "2015-11-06 14:37:49 "     Current run times:  17
+
+14:37:58 Warning: startAllPowerTime:  2.106 s
+
+14:38:00 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:38:02 Warning: startAllPowerTime2:  2.168 s
+
+14:38:04 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:38:04 Warning: Test PA_Module : End testing
+
+14:38:04 Warning: ======================================
+
+14:38:04 Warning: Test PA_Module : Starting testing
+
+14:38:04 Warning: "2015-11-06 14:38:04 "     Current run times:  18
+
+14:38:12 Warning: startAllPowerTime:  2.106 s
+
+14:38:14 Warning: resetAllPowerAmpTime:  2.122 s
+
+14:38:16 Warning: startAllPowerTime2:  2.168 s
+
+14:38:19 Warning: resetAllPowerAmpTime2:  2.184 s
+
+14:38:19 Warning: Test PA_Module : End testing
+
+14:38:19 Warning: ======================================
+
+14:38:19 Warning: Test PA_Module : Starting testing
+
+14:38:19 Warning: "2015-11-06 14:38:19 "     Current run times:  19
+
+14:38:27 Warning: startAllPowerTime:  2.106 s
+
+14:38:29 Warning: resetAllPowerAmpTime:  2.121 s
+
+14:38:31 Warning: startAllPowerTime2:  2.169 s
+
+14:38:33 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:38:33 Warning: Test PA_Module : End testing
+
+14:38:33 Warning: ======================================
+
+14:38:33 Warning: Test PA_Module : Starting testing
+
+14:38:33 Warning: "2015-11-06 14:38:33 "     Current run times:  20
+
+14:38:41 Warning: startAllPowerTime:  2.121 s
+
+14:38:43 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:38:46 Warning: startAllPowerTime2:  2.169 s
+
+14:38:48 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:38:48 Warning: Test PA_Module : End testing
+
+14:38:48 Warning: ======================================
+
+14:38:48 Warning: Test PA_Module : Starting testing
+
+14:38:48 Warning: "2015-11-06 14:38:48 "     Current run times:  21
+
+14:38:56 Warning: startAllPowerTime:  2.106 s
+
+14:38:58 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:39:00 Warning: startAllPowerTime2:  2.184 s
+
+14:39:03 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:39:03 Warning: Test PA_Module : End testing
+
+14:39:03 Warning: ======================================
+
+14:39:03 Warning: Test PA_Module : Starting testing
+
+14:39:03 Warning: "2015-11-06 14:39:03 "     Current run times:  22
+
+14:39:11 Warning: startAllPowerTime:  2.106 s
+
+14:39:13 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:39:15 Warning: startAllPowerTime2:  2.184 s
+
+14:39:17 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:39:17 Warning: Test PA_Module : End testing
+
+14:39:17 Warning: ======================================
+
+14:39:17 Warning: Test PA_Module : Starting testing
+
+14:39:17 Warning: "2015-11-06 14:39:17 "     Current run times:  23
+
+14:39:25 Warning: startAllPowerTime:  2.106 s
+
+14:39:28 Warning: resetAllPowerAmpTime:  2.121 s
+
+14:39:30 Warning: startAllPowerTime2:  2.169 s
+
+14:39:32 Warning: resetAllPowerAmpTime2:  2.184 s
+
+14:39:32 Warning: Test PA_Module : End testing
+
+14:39:32 Warning: ======================================
+
+14:39:32 Warning: Test PA_Module : Starting testing
+
+14:39:32 Warning: "2015-11-06 14:39:32 "     Current run times:  24
+
+14:39:40 Warning: startAllPowerTime:  2.106 s
+
+14:39:42 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:39:44 Warning: startAllPowerTime2:  2.169 s
+
+14:39:47 Warning: resetAllPowerAmpTime2:  2.168 s
+
+14:39:47 Warning: Test PA_Module : End testing
+
+14:39:47 Warning: ======================================
+
+14:39:47 Warning: Test PA_Module : Starting testing
+
+14:39:47 Warning: "2015-11-06 14:39:47 "     Current run times:  25
+
+14:39:55 Warning: startAllPowerTime:  2.121 s
+
+14:39:57 Warning: resetAllPowerAmpTime:  2.106 s
+
+14:39:59 Warning: startAllPowerTime2:  2.169 s
+
+14:40:01 Warning: resetAllPowerAmpTime2:  2.169 s
+
+14:40:01 Warning: Test PA_Module : End testing
+
+14:40:01 Warning: ======================================
+
+14:40:01 Warning: Test PA_Module : Starting testing
+
+14:40:01 Warning: "2015-11-06 14:40:01 "     Current run times:  26
+

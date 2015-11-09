@@ -146,7 +146,7 @@ int PowerAmp::genRanId()
 {
     //  Generate a random number of PA channel
     int ranId = genRandomNum() % DEV_COUNT_MAX;
-    while (!ranId)
+    while (ranId == 0 || ranId == 22 || ranId == 23 || ranId == 56 || ranId == 65 || ranId == 74 || ranId == 80 || ranId == 81 || ranId == 99 || ranId == 113 || ranId == 124 || ranId == 132 || ranId == 134)
     {
         ranId = genRandomNum() % DEV_COUNT_MAX;
     }
@@ -396,18 +396,22 @@ bool PowerAmp::startAll(VOLT volt)
 
     for (int id=1;id<=DEV_COUNT_MAX;id++)
     {
-        int safeCounter = 0;
-        while (true)
+        bool isEscape = (id == 22 || id == 23 || id == 56 || id == 65 || id == 74 || id == 80 || id == 81 || id == 99 || id == 113 || id == 124 || id == 132 || id == 134);
+        if (!isEscape)
         {
-            if (startSingle(id,volt))
-                break;
-            else
-                safeCounter++;
-
-            if (safeCounter == SAFE_COUNTER)
+            int safeCounter = 0;
+            while (true)
             {
-                errorId.append(id);
-                break;
+                if (startSingle(id,volt))
+                    break;
+                else
+                    safeCounter++;
+
+                if (safeCounter == SAFE_COUNTER)
+                {
+                    errorId.append(id);
+                    break;
+                }
             }
         }
     }
@@ -464,9 +468,13 @@ bool PowerAmp::startAll2(VOLT volt)
     for (int i=1;i<=DEV_COUNT_MAX;i++)
     {
 //        tmpVolt = echoVolt(i);
-        if (echoVolt(i) == -1)
+        bool isEscape = (i == 22 || i == 23 || i == 56 || i == 65 || i == 74 || i == 80 || i == 81 || i == 99 || i == 113 || i == 124 || i == 132 || i == 134);
+        if (!isEscape)
         {
-            m_errorId.append(i);
+            if (echoVolt(i) == -1)
+            {
+                m_errorId.append(i);
+            }
         }
     }
 
@@ -529,18 +537,22 @@ bool PowerAmp::resetAll()
 
     for (int id=1;id<=DEV_COUNT_MAX;id++)
     {
-        int safeCounter = 0;
-        while(true)
+        bool isEscape = (id == 22 || id == 23 || id == 56 || id == 65 || id == 74 || id == 80 || id == 81 || id == 99 || id == 113 || id == 124 || id == 132 || id == 134);
+        if (!isEscape)
         {
-            if (resetSingle(id))
-                break;
-            else
-                safeCounter++;
-
-            if (safeCounter == SAFE_COUNTER)
+            int safeCounter = 0;
+            while(true)
             {
-                errorId.append(id);
-                break;
+                if (resetSingle(id))
+                    break;
+                else
+                    safeCounter++;
+
+                if (safeCounter == SAFE_COUNTER)
+                {
+                    errorId.append(id);
+                    break;
+                }
             }
         }
     }
@@ -599,9 +611,13 @@ bool PowerAmp::resetAll2()
     for (int i=1;i<=DEV_COUNT_MAX;i++)
     {
 //        tmpVolt = echoVolt(i);
-        if (echoVolt(i) == -1)
+        bool isEscape = (i == 22 || i == 23 || i == 56 || i == 65 || i == 74 || i == 80 || i == 81 || i == 99 || i == 113 || i == 124 || i == 132 || i == 134);
+        if (!isEscape)
         {
-            m_errorId.append(i);
+            if (echoVolt(i) == -1)
+            {
+                m_errorId.append(i);
+            }
         }
     }
     if (m_errorId.isEmpty())

@@ -3,9 +3,9 @@
 #include <QMessageBox>
 #include <QTime>
 #include <QThread>
+#include <QList>
 #include "mainwindow.h"
 #include "time.h"
-#include "function.h"
 
 Q_LOGGING_CATEGORY(Test,"Test PA_Module")
 
@@ -88,7 +88,6 @@ MainWindow::MainWindow(QWidget *parent)
     this->setCentralWidget(widget);
 
     m_PAController = new PowerAmp;
-    qInstallMessageHandler(logMessageOutput);
     connect(startSingle_btn,SIGNAL(clicked()),SLOT(btnStartSingleClicked()));
     connect(startAll1_btn,SIGNAL(clicked()),SLOT(btnStartAll1Clicked()));
     connect(startAll2_btn,SIGNAL(clicked()),SLOT(btnStartAll2Clicked()));
@@ -201,6 +200,9 @@ void MainWindow::btnEchoTempClicked()
 
 void MainWindow::btnTestAllClicked()
 {
+    QTime time = QTime::currentTime();
+    qsrand(time.msec() + time.second() * MS_UNIT);
+
     int runTimes = 1;
     while(true)
     {
@@ -210,6 +212,9 @@ void MainWindow::btnTestAllClicked()
         qCWarning(Test()) << QDateTime::currentDateTime().toString("yyyy-MM-dd hh:mm:ss ").toLocal8Bit() << "    Current run times: " << runTimes;
 
         //randomly generate 12 unique channel IDs within the range of 1-144
+//        #define TEST
+        #ifdef TEST
+
         int i, channel[12];
         i = 0;
         while (i < 12)
@@ -221,15 +226,41 @@ void MainWindow::btnTestAllClicked()
                 qCDebug(Test()) << "Number of channel" << i+1 << ":" << channel[i];
                 i += 1;
             }
+            else
+            {
+                qCDebug(Test()) << "Generate the same channel ID.";
+            }
         }
+
+        #else
+        int i = 0;
+        QList<int> channel;
+        while (i < 12)
+        {
+            int random = genRandomID();
+            if (!channel.contains(random))
+            {
+                channel.append(random);
+                qCDebug(Test()) << "Number of channel" << i+1 << ":" << channel[i];
+                i += 1;
+            }
+        }
+        #endif
+
         qCDebug(Test())<<"======================================";
 
         //randomly generate voltage values within the range of 0-18 V
-        VOLT volt[12];
+        QList<VOLT> volt;
         i = 0;
+        VOLT random;
         while (i < 12)
         {
-            volt[i] = genRandomVolt();
+            random = (qrand() % 180) / 10.0;
+            while (random == 0.0)
+            {
+                random = (qrand() % 180) / 10.0;
+            }
+            volt.append(random);
             qCDebug(Test()) << "Voltage value" << i+1 << ":" << volt[i];
             i += 1;
         }
@@ -297,17 +328,6 @@ void MainWindow::btnTestAllClicked()
         qCWarning(Test()) <<"startAllPowerTime: "<< (time_End - time_Start) / 1000.0 << "s";
         qCDebug(Test())<<"======================================";
 
-        //start setting all power amplifiers: method two
-        qCDebug(Test()) << "startAllPowerAmp_2: ";
-        time_Start = (double)clock();
-        success = m_PAController->startAll2(volt[6]);
-        time_End = (double)clock();
-        qCDebug(Test()) << "Result" << ":" << success;
-        if (!success)
-            qCWarning(Test()) << "Start all result:" << success;
-        qCWarning(Test()) <<"startAllPowerTime: "<< (time_End - time_Start) / 1000.0 << "s";
-        qCDebug(Test())<<"======================================";
-
         //start reseting all power amplifiers: method one
         qCDebug(Test()) << "resetAllPowerAmp_1: ";
         time_Start = (double)clock();
@@ -319,6 +339,17 @@ void MainWindow::btnTestAllClicked()
         qCWarning(Test()) <<"resetAllPowerAmpTime: "<< (time_End - time_Start) / 1000.0 << "s";
         qCDebug(Test())<<"======================================";
 
+        //start setting all power amplifiers: method two
+        qCDebug(Test()) << "startAllPowerAmp_2: ";
+        time_Start = (double)clock();
+        success = m_PAController->startAll2(volt[6]);
+        time_End = (double)clock();
+        qCDebug(Test()) << "Result" << ":" << success;
+        if (!success)
+            qCWarning(Test()) << "Start all result:" << success;
+        qCWarning(Test()) <<"startAllPowerTime2: "<< (time_End - time_Start) / 1000.0 << "s";
+        qCDebug(Test())<<"======================================";  
+
         //start reseting all power amplifiers: method two
         qCDebug(Test()) << "resetAllPowerAmp_2: ";
         time_Start = (double)clock();
@@ -327,7 +358,7 @@ void MainWindow::btnTestAllClicked()
         qCDebug(Test()) << "Result" << ":" << success;
         if (!success)
             qCWarning(Test()) << "Reset all result:" << success;
-        qCWarning(Test()) <<"resetAllPowerAmpTime: "<< (time_End - time_Start) / 1000.0 << "s";
+        qCWarning(Test()) <<"resetAllPowerAmpTime2: "<< (time_End - time_Start) / 1000.0 << "s";
         qCDebug(Test())<<"======================================";
 
         //end testing
@@ -354,7 +385,7 @@ int MainWindow::genRandomNum()
 int MainWindow::genRandomID()
 {
     int ranId = genRandomNum() % 145;
-    while (!ranId)
+    while (ranId == 0 || ranId == 22 || ranId == 23 || ranId == 56 || ranId == 65 || ranId == 74 || ranId == 80 || ranId == 81 || ranId == 99 || ranId == 113 || ranId == 124 || ranId == 132 || ranId == 134)
     {
         ranId = genRandomNum() % 145;
     }
@@ -363,10 +394,10 @@ int MainWindow::genRandomID()
 
 VOLT MainWindow::genRandomVolt()
 {
-    VOLT volt = (VOLT)(genRandomNum() % 180) / 10;
-    while (volt == 0)
+    VOLT volt = (genRandomNum() % 180) / 10.0;
+    while (volt == 0.0)
     {
-        volt = (VOLT)(genRandomNum() % 180) / 10;
+        volt = (genRandomNum() % 180) / 10.0;
     }
     return volt;
 }
@@ -374,13 +405,16 @@ VOLT MainWindow::genRandomVolt()
 bool MainWindow::checkUnique(int random, int data[])
 {
     bool isUnique = true;
-    int length = sizeof(data) / 4;
-    for(int i = 0; i < length; i++)
+    int length = sizeof(data) / sizeof(int);
+    if (!length == 0)
     {
-        if (random == data[i])
+        for(int i = 0; i < length; i++)
         {
-            isUnique = false;
-            break;
+            if (random == data[i])
+            {
+                isUnique = false;
+                break;
+            }
         }
     }
     return isUnique;
