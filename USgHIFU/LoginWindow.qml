@@ -161,7 +161,7 @@ ApplicationWindow {
             width: rect1.width * 0.25
             height: rect1.height * 0.15
             anchors { left: btn_login.right; leftMargin: rect1.width*0.1; bottom: rect1.bottom; bottomMargin: rect1.height*0.1}
-            text: "Sign out"
+            text: "Quit"
             onClicked: Qt.quit()
         }
     }
