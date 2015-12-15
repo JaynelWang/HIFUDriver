@@ -10,7 +10,7 @@ ApplicationWindow {
     width: 400
     height: 500
     visible: true
-//    flags: Qt.Desktop
+    flags: Qt.Sheet
     SystemPalette { id: activePalette }
 
     property int colorFlag : 0
